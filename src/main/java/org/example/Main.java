@@ -4,13 +4,7 @@ package org.example;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello World");
-        findStringLength();
-    }
-    public  static void findStringLength(){
-        String s = "Bharath";
-        int length = s.length();
-        System.out.println("The length of the string : "+length);
-    }
+            System.out.println("Hello World");
 
+        }
 }
