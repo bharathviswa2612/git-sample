@@ -5,6 +5,12 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
             System.out.println("Hello World");
+            maxElement();
 
         }
+
+
+    public static void maxElement(){
+        System.out.println("The max element in the array is 100 ");
+    }
 }
